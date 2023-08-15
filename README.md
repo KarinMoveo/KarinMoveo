@@ -1,17 +1,10 @@
 <h1 align="center">Hi there! I'm Karin 👋</h1>
-<h3 align="center">A passionate developer 💫</h3>
-
-
-<div align="center" > <img width="400" src="https://user-images.githubusercontent.com/92684210/229506236-edd9d8d1-4159-4c1d-838d-3e5f5c37efce.gif"> </div>
-
 
 👩🏻‍💻 I've just joined "Moveo" as a "Full Stack Developer" and I'm ready to dive into the tech world.
 
 🌱 Currently immersed in the "Skills" training program, I'm embracing new challenges and expanding my skills.
 
 📫 Need to connect? Drop me a line at karino@moveo.co.il.
-
-💻 Feel free to explore my personal GitHub account right here: https://github.com/KarinOchayon070.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
