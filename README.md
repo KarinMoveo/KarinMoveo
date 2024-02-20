@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Karin 👋</h1>
 
-👩🏻‍💻 I've just joined "Moveo" as a "Full Stack Developer" and I'm ready to dive into the tech world.
+👩🏻‍💻 I'm a Full Stack Developer in 'Bravo' Unit.
 
-🌱 Currently immersed in the "Skills" training program, I'm embracing new challenges and expanding my skills.
+🌱 Previously, I completed the "Skills" training program where I honed my technical expertise and acquired new skills.
 
 📫 Need to connect? Drop me a line at karino@moveo.co.il.
